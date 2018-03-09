@@ -1,0 +1,68 @@
+.blackBack{
+	background-color: black;
+	min-height: 800px;
+}
+.middle
+{
+	text-align: center;
+	float: center;
+}
+.textPosition{
+	position: absolute;
+	color: white;
+	z-index: 3001;
+	left: 35%;
+	top:35%;
+}
+.artPic{
+	position: absolute;
+	width: 10%;
+	height: auto;
+	left: 23.5%;
+	top:40%;
+	z-index: 2001;
+}
+.footerPic{
+	position: absolute;
+	left: 17%;
+	top:30%;
+}
+.mainPic
+{
+	z-index: 100;
+	width:68%;
+	height: auto;
+	opacity: 0.9;
+	position: absolute;
+	left: 17%;
+}
+.position{
+	position: relative;
+	padding-bottom: 5%;
+}
+.btn-social {
+  font-size: 20px;
+  line-height: 36px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 100%; }
+.socialButton{
+	position: absolute;
+	font:50px;
+	z-index: 3001;
+	left: 67%;
+	top:815%;
+}
+.color{
+	color:white
+}
+.domain{
+	position: absolute;
+	color: white;
+	z-index: 3001;
+	left: 45%;
+	top:835%;
+}
